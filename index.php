@@ -15,7 +15,7 @@
     <link rel="apple-touch-icon-precomposed" sizes="76x76" href="../dist/img/apple-touch-icon-precomposed-76.png">
     <!-- iPad non-retina icon (iOS < 7) -->
     <link rel="apple-touch-icon-precomposed" sizes="72x72" href="../dist/img/apple-touch-icon-precomposed-72.png">
-    <!-- iPhone 6 Plus icon -->
+    <!-- iPhone 6  Plus icon -->
     <link rel="apple-touch-icon-precomposed" sizes="120x120" href="../dist/img/apple-touch-icon-precomposed-180.png">
     <!-- iPhone retina icon (iOS < 7) -->
     <link rel="apple-touch-icon-precomposed" sizes="114x114" href="../dist/img/apple-touch-icon-precomposed-114.png">
@@ -61,8 +61,8 @@
             <li><a href="#">Home</a></li>
             <li>Basic</li>
           </ol>
-          <h1>Welcome to an OpenShift Application!</h1>
-          <p>The purpose of this application is to demonstrate several interesting features about OpenShift. We hope you enjoy it!</p>
+          <h1>Welcome to an BlueGreen Application!</h1>
+          <p>The purpose is to demonstrate several interesting features about OpenShift for PSB Team. We hope you enjoy it!</p>
         </div>
       </div>
       <div class="row">
@@ -86,7 +86,7 @@
               </tr>
 	      <tr>
                 <td>version</td>
-                <td><?php Version5 ?></td>
+                <td><?php Version6 ?></td>
               </tr>
             </tbody>
           </table>
