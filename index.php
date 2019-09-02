@@ -15,7 +15,7 @@
     <link rel="apple-touch-icon-precomposed" sizes="76x76" href="../dist/img/apple-touch-icon-precomposed-76.png">
     <!-- iPad non-retina icon (iOS < 7) -->
     <link rel="apple-touch-icon-precomposed" sizes="72x72" href="../dist/img/apple-touch-icon-precomposed-72.png">
-    <!-- iPhone 6 Plus icon -->
+    <!-- iPhone 6  Plus icon -->
     <link rel="apple-touch-icon-precomposed" sizes="120x120" href="../dist/img/apple-touch-icon-precomposed-180.png">
     <!-- iPhone retina icon (iOS < 7) -->
     <link rel="apple-touch-icon-precomposed" sizes="114x114" href="../dist/img/apple-touch-icon-precomposed-114.png">
