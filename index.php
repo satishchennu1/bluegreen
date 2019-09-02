@@ -63,7 +63,6 @@
           </ol>
           <h1>Welcome to an BlueGreen Application!</h1>
           <p>The purpose is to demonstrate several interesting features about OpenShift for PSB Team. We hope you enjoy it!</p>
-          <p>This is PSB Team</p>
         </div>
       </div>
       <div class="row">
