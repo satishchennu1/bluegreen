@@ -86,7 +86,7 @@
               </tr>
 	      <tr>
                 <td>version</td>
-                <td><?php Version5 ?></td>
+                <td><?php Version6 ?></td>
               </tr>
             </tbody>
           </table>
